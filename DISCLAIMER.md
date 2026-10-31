@@ -6,7 +6,7 @@ The materials provided by the OVGUE project (documentation, scripts, configurati
 
 ## Updates to Documentation
 
-The documentation and scripts may be updated or expanded over time. The author reserves the right to make changes without prior notice. If you are using a copy of these materials obtained from a third-party source, it is recommended that you verify it against the current version in the project's official repository.
+The documentation, scripts and other files may be updated or expanded over time. The author reserves the right to make changes without prior notice. If you are using a copy of these materials obtained from a third-party source, it is recommended that you verify it against the current version in the project's official repository.
 
 ## User Responsibility
 
